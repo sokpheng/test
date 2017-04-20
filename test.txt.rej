@@ -1,0 +1,10 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -2,6 +2,6 @@
+ 	<head></head>
+ 	<body><h1>Welcome to the eye!</h1></body>
+ 	kk
+-	kjhjh
++	kjhjhhjbjh
+ 
+ </html>
+\ No newline at end of file
