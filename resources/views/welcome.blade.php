@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Document</a>
+                    <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">test</a>
                     <a href="https://laravel-news.com">New</a>
                     <a href="https://forge.laravel.com">Forget</a>
