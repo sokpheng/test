@@ -79,15 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    welcome to the eye!
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">Document</a>
+                    <a href="https://laracasts.com">test</a>
+                    <a href="https://laravel-news.com">New</a>
+                    <a href="https://forge.laravel.com">Forget</a>
+                    <a href="https://github.com/laravel/laravel">Githok</a>
                 </div>
             </div>
         </div>
