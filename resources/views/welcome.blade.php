@@ -9,6 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+<<<<<<< HEAD
         <link rel="stylesheet" type="text/css" href="{{asset('css\app.css')}}">
         <!-- Styles -->
         <style>
@@ -24,10 +25,17 @@
                 color:green;
                 background:black;
             }
+=======
+        <link rel="stylesheet" type="text/css"  href="{{asset('css\app.css')}}">
+        <!-- Styles -->
+        <style>
+
+>>>>>>> 329c301693e5c09d52c4c8d1632a022a2d82af6e
         </style>
     </head>
     <body>
         <div class="container">
+<<<<<<< HEAD
                 <div class="col-md-12 col-sm-12 col-xs-12" style="background-color:grey">            
                     <h1 style="margin:30px;color:white">Sitename</h1>
                 </div>           
@@ -51,6 +59,15 @@
 
                 </ul>
               </div>
+=======
+            <div class="col-md-12 col-sm-12" id="bg">
+                    <div class="panel-default">
+                    <div class="panel-heading">
+                        hook
+                    </div>
+                    </div>
+            </div>
+>>>>>>> 329c301693e5c09d52c4c8d1632a022a2d82af6e
         </div>
     </body>
 </html>
