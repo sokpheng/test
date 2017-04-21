@@ -9,24 +9,48 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        <link rel="stylesheet" type="text/css" href="{{asset('css\app.css')}}">
         <!-- Styles -->
         <style>
             .container{
-                width:80%;
-                border:solid 1px;
-                margin-left:10%;
+                width:60%;
+                
+                margin-left:20%;
             }
-            #bg{
-                background-color:red;
-                height:300px;
+            #nav{
+                color:#fff;
+            }
+            #nav:hover{
+                color:green;
+                background:black;
             }
         </style>
     </head>
     <body>
         <div class="container">
-            <div class="col-md-12 col-sm-12" id="bg">
-            </div>
+                <div class="col-md-12 col-sm-12 col-xs-12" style="background-color:grey">            
+                    <h1 style="margin:30px;color:white">Sitename</h1>
+                </div>           
+                <div class="col-md-12 col-sm-12 col-xs-12" style="border-radius:0px;background:black;"> 
+                    
+                         <ul class="nav navbar-nav" >
+                            <li><a href="#" id="nav" >Nav item 1</a></li>
+                            <li><a href="#" id="nav" >Nav item 2</a></li>
+                            <li><a href="#" id="nav" >Nav item 3</a></li>
+                        </ul>
+                 
+              </div>
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <ul>
+                    <li><h1>Heading Level 1</h1></li>
+                    <li><h2>Heading Level 2</h6></li>
+                    <li><h3>Heading Level 3</h6></li>
+                    <li><h4>Heading Level 4</h6></li>
+                    <li><h5>Heading Level 5</h6></li>
+                    <li><h6>Heading Level 6</h6></li>
+
+                </ul>
+              </div>
         </div>
     </body>
 </html>
