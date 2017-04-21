@@ -9,23 +9,20 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        <link rel="stylesheet" type="text/css"  href="{{asset('css\app.css')}}">
         <!-- Styles -->
         <style>
-            .container{
-                width:80%;
-                border:solid 1px;
-                margin-left:10%;
-            }
-            #bg{
-                background-color:red;
-                height:300px;
-            }
+
         </style>
     </head>
     <body>
         <div class="container">
             <div class="col-md-12 col-sm-12" id="bg">
+                    <div class="panel-default">
+                    <div class="panel-heading">
+                        hook
+                    </div>
+                    </div>
             </div>
         </div>
     </body>
